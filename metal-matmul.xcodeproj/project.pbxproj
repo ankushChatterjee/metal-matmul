@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		AC9511512CE0F07800464E1E /* metal-matmul */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "metal-matmul"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC9511612CE0F76700464E1E /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		AC9511482CE0F07800464E1E = {
 			isa = PBXGroup;
 			children = (
+				AC9511612CE0F76700464E1E /* .gitignore */,
 				AC9511532CE0F07800464E1E /* metal-matmul */,
 				AC9511522CE0F07800464E1E /* Products */,
 			);
